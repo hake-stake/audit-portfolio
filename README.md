@@ -1,6 +1,8 @@
 # Hake Audit Portfolio
+With nearly 4 years of specialized experience in blockchain security, I've established myself as a trusted auditor for several leading protocols in the DeFi ecosystem. My technical expertise spans diverse protocol architectures across multiple blockchain environments, with deep proficiency in Solidity, Move, and Solana.
 
-## Portfolio
+I also host [Proof of Podcast](https://x.com/ProofOf_Podcast), where I engage with founders, builders, and elite security researchers to explore the cutting edge of blockchain development and security.
+## Portfolio sample
 
 ### Certora Audits
 - [Uniswap](https://github.com/Uniswap/v4-core/blob/main/docs/security/audits/DRAFT_Certora_audit_core.pdf)
