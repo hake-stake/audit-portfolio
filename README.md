@@ -8,7 +8,7 @@ I also host [Proof of Podcast](https://x.com/ProofOf_Podcast), where I engage wi
 
 Links point to public audit reports where available. Items marked `undisclosed` link to public project/code references where no public report is available.
 
-### Spearbit Audits (2025 - Present)
+### Spearbit/Certora/Offbeat + others (2025 - Present)
 
 - [Usual / Fira Lending](<https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2FM9fwC3lrmoXsV51iAmhX%2FSpearbit%20-%20Audit%20Report%20on%20USL%20on%20Euler.pdf?alt=media&token=c119331a-f652-4d13-ac9a-648efcb79eda>)
 - [Aztec ZK Kernel](https://github.com/AztecProtocol/aztec-packages/blob/93fdf71da0d1180cd4fc9ac0c688eb4f24bd17c6/docs/docs-developers/docs/foundational-topics/advanced/circuits/private_kernel.md)
@@ -17,8 +17,9 @@ Links point to public audit reports where available. Items marked `undisclosed` 
 - [Uniswap Router Rebates](https://github.com/uniswapfoundation/router-rebates)
 - [Midl](https://midl.gitbook.io/midl)
 - [Aztec ATP Staking Extension](https://github.com/AztecProtocol/audit-reports/blob/main/TGE/Spearbit%20-%20TGE.pdf)
+- [Tally](https://www.tally.xyz/) (undisclosed)
 
-### Certora Audits (2024 - 2025)
+### Certora (2024 - 2025)
 
 - [Uniswap V4 Core](https://github.com/Uniswap/v4-core/blob/main/docs/security/audits/DRAFT_Certora_audit_core.pdf)
 - [EtherFi](https://github.com/etherfi-protocol/smart-contracts/blob/18150d1038eff3744ce6b1b0e18417d41323e2d1/audits/2024.10.08%20-%20Certora%20-%20EtherFi%20draft.pdf)
@@ -31,7 +32,7 @@ Links point to public audit reports where available. Items marked `undisclosed` 
 - [Relend Network](https://github.com/backstop-protocol/ERC-7770/blob/main/audits/Certora-Audit.pdf)
 - [Boring Bridge](https://github.com/Certora/SecurityReports/blob/main/Reports/2025/02_12_2025_Relend_Network-MR.pdf)
 
-### Hexens Audits (2023 - 2024)
+### Hexens (2023 - 2024)
 
 - [EigenLayer](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/EigenLayer_Oct23_(Public)(Restaking_Liquid%20staking).pdf)
 - [Mantle](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Mantle_SCs_Aug23(Public)(Liquid%20Staking%20Protocol).pdf)
@@ -39,7 +40,6 @@ Links point to public audit reports where available. Items marked `undisclosed` 
 - [Valantis](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Valantis_Jan24(Public).pdf)
 - [Manifold](https://github.com/manifoldfinance) (undisclosed)
 
-### Private
+### Past
 
-- [Tally](https://www.tally.xyz/) (undisclosed)
 - [Sablier](https://github.com/sablier-labs/audits/blob/main/lockup/v1.0.x/20230331_hake.pdf)
