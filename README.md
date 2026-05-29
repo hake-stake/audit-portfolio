@@ -4,9 +4,12 @@ With 4+ years of specialized experience in blockchain security, I've established
 
 I also host [Proof of Podcast](https://x.com/ProofOf_Podcast), where I engage with founders, builders, and elite security researchers to explore the cutting edge of blockchain development and security.
 
-## Portfolio sample
+## Portfolio sample 
 
-Links point to public audit reports where available. Items marked `undisclosed` link to public project/code references where no public report is available.
+This is a not an exhaustive list.
+
+Links point to public audit reports where available, otherwise they are marked `undisclosed`.
+
 
 ### Spearbit/Certora/Offbeat + others (2025 - Present)
 
