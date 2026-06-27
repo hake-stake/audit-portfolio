@@ -13,7 +13,7 @@ Links point to public audit reports where available, otherwise they are marked `
 
 ### Spearbit/Certora/Offbeat + others (2025 - Present)
 
-- [Usual / Fira Lending]([(<https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2FM9fwC3lrmoXsV51iAmhX%2FSpearbit%20-%20Audit%20Report%20on%20USL%20on%20Euler.pdf?alt=media&token=c119331a-f652-4d13-ac9a-648efcb79eda>](https://3843788673-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyxyZTdJaHRBrumzCYheB%2Fuploads%2Fgit-blob-2e55243e2c80f4574b96f599d6f58ea327cb2aa8%2FCantinacode%20-%20Fira%20UZR%20Audit%20Nov25.pdf?alt=media))](https://3843788673-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyxyZTdJaHRBrumzCYheB%2Fuploads%2Fgit-blob-2e55243e2c80f4574b96f599d6f58ea327cb2aa8%2FCantinacode%20-%20Fira%20UZR%20Audit%20Nov25.pdf?alt=media)](https://3843788673-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyxyZTdJaHRBrumzCYheB%2Fuploads%2Fgit-blob-2e55243e2c80f4574b96f599d6f58ea327cb2aa8%2FCantinacode%20-%20Fira%20UZR%20Audit%20Nov25.pdf?alt=media))
+- [Usual / Fira Lending](https://3843788673-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FyxyZTdJaHRBrumzCYheB%2Fuploads%2Fgit-blob-2e55243e2c80f4574b96f599d6f58ea327cb2aa8%2FCantinacode%20-%20Fira%20UZR%20Audit%20Nov25.pdf?alt=media)
 - [Aztec ZK Kernel](https://github.com/AztecProtocol/aztec-packages/blob/93fdf71da0d1180cd4fc9ac0c688eb4f24bd17c6/docs/docs-developers/docs/foundational-topics/advanced/circuits/private_kernel.md)
 - [Kuru](https://drive.google.com/file/d/1qRlu1X_SHg7IJdKLU46xz_fWgL9GMtna/view)
 - [Stackup Keystore](https://github.com/stackup-wallet/keystore/blob/main/audits/spearbit-july2025.pdf)
